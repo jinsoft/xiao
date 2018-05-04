@@ -15,14 +15,8 @@
     },
     "autoload": {
         "psr-4": {
-          "Jinsoft\\Xiao\\":"src/"
+          "Jinsoft\\Xiao\\":"src/",
         }
-    },
-//    "extra":{
-//        "laravel":{
-//            "providers":[
-//                "Jinsoft\\Xiao\\"
-//            ]
-//        }
-//    }
+    }
 }
+s
