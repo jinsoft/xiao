@@ -1,0 +1,28 @@
+{
+    "name": "jinsoft/xiao",
+    "description": "study packagist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jinsoft",
+            "email": "admin@ainiok.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "laravel/framework": "5.5.*",
+    },
+    "autoload": {
+        "psr-4": {
+          "Jinsoft\\Xiao\\":"src/"
+        }
+    },
+//    "extra":{
+//        "laravel":{
+//            "providers":[
+//                "Jinsoft\\Xiao\\"
+//            ]
+//        }
+//    }
+}
